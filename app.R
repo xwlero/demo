@@ -1,5 +1,5 @@
 library(shiny)
-require(shinydashboard)
+library(shinydashboard)
 library(lattice)
 library(ggplot2)
 library(ggthemes)
